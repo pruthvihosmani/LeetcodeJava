@@ -12,6 +12,10 @@ public class Conditionals {
          */
         for ( i=0; i<= 10; i++){
             System.out.println(i);
+            for (int num = 3; num <= 6; num += 2){
+                System.out.println(num);
+            }
+
         }
     }
 }
